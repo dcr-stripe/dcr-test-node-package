@@ -1,0 +1,19 @@
+{
+  "name": "dcr-test-node-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dcr-stripe/dcr-test-node-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcr-stripe/dcr-test-node-package/issues"
+  },
+  "homepage": "https://github.com/dcr-stripe/dcr-test-node-package#readme"
+}
